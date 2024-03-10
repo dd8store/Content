@@ -1,9 +1,8 @@
 {
-  CmdLink :'',
-  TweakLink :'',
-  CodeLink : '',
-  PowerLink : '',
-  Shortcuts : '',
+  CmdLink :'https://raw.githubusercontent.com/dd8store/Content/main/cmd',
+  TweakLink :'https://github.com/dd8store/Content/blob/main/RegData',
+  CodeLink : 'https://raw.githubusercontent.com/dd8store/Content/main/codsettings',
+  Shortcuts : 'https://github.com/dd8store/Content/blob/main/shortcut',
   Program :'',
   Web :''
 }
